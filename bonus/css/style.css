@@ -1,0 +1,27 @@
+:root{
+	--brown:#CE7B3D;
+	--dark-brown:#903D06;
+	--green:#007D02;
+	--black:#0f0d0d;
+	--blue:#61BAD6;
+}
+
+[class^='col'] {
+	padding: 15px;
+}
+
+.dark-brown{
+	background-color: var(--dark-brown);
+}
+.brown{
+	background-color: var(--brown);
+}
+.green{
+	background-color: var(--green);
+}
+.black{
+	background-color: var(--black);
+}
+.white{
+	background-color: antiquewhite;
+}
