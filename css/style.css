@@ -9,3 +9,12 @@
 .row .green{
     background-color: #00E165;
 }
+/**seconda sezione**/
+.section.tetris{
+	padding-top: 25px;
+}
+
+.section.tetris [class^='col']{
+	padding: 20px;
+}
+
