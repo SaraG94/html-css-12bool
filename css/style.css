@@ -10,11 +10,15 @@
     background-color: #00E165;
 }
 /**seconda sezione**/
-section.tetris{
+section.tetris,
+.offset{
 	padding-top: 25px;
 }
 
-section.tetris [class^='col']{
+section.tetris [class^='col'],
+.offset [class^='col']{
 	padding: 20px;
 }
+
+
 
